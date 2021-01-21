@@ -1,6 +1,6 @@
 # k Way Merge
 ## Introduction
-The k-way merge code in project accepts large input files containing lines in below mentioned format and create a new file sorted accoring to the field mentioned
+The k-way merge code in project accepts large input files containing lines in below mentioned format and create a new file sorted according to the field mentioned
 ```sh
 Name Age TShirtNumber
 ```
